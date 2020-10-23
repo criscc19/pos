@@ -73,7 +73,7 @@ if (! $sortfield) $sortfield='f.date_c';
  */
 $helpurl='EN:Module_DoliPos|FR:Module_DoliPos_FR|ES:M&oacute;dulo_DoliPos';
 llxHeader("",$langs->trans("Tickets"),$helpurl);
-
+var_dump($user);exit;
 $html = new FormOther($db);
 $now=dol_now();
 $ticketstatic=new Ticket($db);
