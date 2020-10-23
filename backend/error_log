@@ -1,0 +1,170 @@
+[26-Feb-2020 13:41:05 America/Costa_Rica] PHP Warning:  trim() expects parameter 1 to be string, object given in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 257
+[26-Feb-2020 13:41:05 America/Costa_Rica] PHP Warning:  mysqli::query(): Empty query in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 268
+[26-Feb-2020 13:41:05 America/Costa_Rica] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 302
+[26-Feb-2020 15:14:33 America/Costa_Rica] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 302
+[11-Mar-2020 13:38:27 America/Costa_Rica] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/sublimacionabc/core/db/mysqli.class.php on line 298
+[11-Mar-2020 14:01:33 America/Costa_Rica] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/sublimacionabc/core/db/mysqli.class.php on line 298
+[12-Mar-2020 12:44:35 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/sublimacionabc/pos/backend/liste.php on line 526
+[16-Mar-2020 08:15:08 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/sublimacionabc/public_html/pos/backend/liste.php on line 526
+[22-Jun-2020 20:57:50 UTC] PHP Warning:  Declaration of DocumentObject::getNomUrl($withpicto = 0, $option = '', $max = 0, $short = 0, $moretitle = '', $notooltip = 0, $addlinktonotes = 0, $save_lastsearch_value = -1) should be compatible with Facture::getNomUrl($withpicto = 0, $option = '', $max = 0, $short = 0, $moretitle = '', $notooltip = 0, $addlinktonotes = 0, $save_lastsearch_value = -1, $target = '') in /home/pruebaserp/public_html/pruebas/feng/class/feng.document.class.php on line 3
+[22-Jun-2020 20:57:50 UTC] PHP Stack trace:
+[22-Jun-2020 20:57:50 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/backend/closes.php:0
+[22-Jun-2020 20:57:50 UTC] PHP   2. include() /home/pruebaserp/public_html/pruebas/pos/backend/closes.php:25
+[22-Jun-2020 20:57:50 UTC] PHP   3. Interfaces->run_triggers() /home/pruebaserp/public_html/pruebas/main.inc.php:813
+[22-Jun-2020 20:57:50 UTC] PHP   4. include_once() /home/pruebaserp/public_html/pruebas/core/class/interfaces.class.php:152
+[22-Jun-2020 20:57:50 UTC] PHP   5. require_once() /home/pruebaserp/public_html/pruebas/feng/core/triggers/interface_55_modFeng_TvaExemptFeng.class.php:33
+[22-Jun-2020 20:57:50 UTC] PHP Warning:  Declaration of DocumentObject::fetch_lines() should be compatible with Facture::fetch_lines($only_product = 0, $loadalsotranslation = 0) in /home/pruebaserp/public_html/pruebas/feng/class/feng.document.class.php on line 3
+[22-Jun-2020 20:57:50 UTC] PHP Stack trace:
+[22-Jun-2020 20:57:50 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/backend/closes.php:0
+[22-Jun-2020 20:57:50 UTC] PHP   2. include() /home/pruebaserp/public_html/pruebas/pos/backend/closes.php:25
+[22-Jun-2020 20:57:50 UTC] PHP   3. Interfaces->run_triggers() /home/pruebaserp/public_html/pruebas/main.inc.php:813
+[22-Jun-2020 20:57:50 UTC] PHP   4. include_once() /home/pruebaserp/public_html/pruebas/core/class/interfaces.class.php:152
+[22-Jun-2020 20:57:50 UTC] PHP   5. require_once() /home/pruebaserp/public_html/pruebas/feng/core/triggers/interface_55_modFeng_TvaExemptFeng.class.php:33
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core/modules/ticketsup): failed to open stream: No such file or directory in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/ticketsup' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core/modules): failed to open stream: No such file or directory in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/.' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core): failed to open stream: No such file or directory in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/..' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/excelimport/core/modules): failed to open stream: Success in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/excelimport/core/modules/.' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. top_menu() /home/amapolaserp/public_html/main.inc.php:1103
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:1575
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core/modules/ticketsup): failed to open stream: Success in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/ticketsup' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core/modules): failed to open stream: Success in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/.' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/ticketsup/core): failed to open stream: Success in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:48 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/ticketsup/core/modules/..' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:48 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:48 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:48 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:48 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:49 UTC] PHP Warning:  include_once(/home/amapolaserp/public_html/excelimport/core/modules): failed to open stream: Success in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:49 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:49 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:49 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:49 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:49 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[30-Jun-2020 19:50:49 UTC] PHP Warning:  include_once(): Failed opening '/home/amapolaserp/public_html/excelimport/core/modules/.' for inclusion (include_path='/home/amapolaserp/public_html/htdocs') in /home/amapolaserp/public_html/mastermenu/core/menus/standard/mastermenu.php on line 306
+[30-Jun-2020 19:50:49 UTC] PHP Stack trace:
+[30-Jun-2020 19:50:49 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/closes.php:0
+[30-Jun-2020 19:50:49 UTC] PHP   2. llxHeader() /home/amapolaserp/public_html/pos/backend/closes.php:75
+[30-Jun-2020 19:50:49 UTC] PHP   3. left_menu() /home/amapolaserp/public_html/main.inc.php:1108
+[30-Jun-2020 19:50:49 UTC] PHP   4. MenuManager->showmenu() /home/amapolaserp/public_html/main.inc.php:2205
+[02-Jul-2020 06:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/amapolaserp/public_html/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/amapolaserp/public_html/pos/backend/liste.php(185): DoliDBMysqli->fetch_object(false)
+#1 {main}
+  thrown in /home/amapolaserp/public_html/core/db/mysqli.class.php on line 310
+[02-Jul-2020 08:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/amapolaserp/public_html/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/amapolaserp/public_html/pos/frontend/include/funciones.php(257): DoliDBMysqli->fetch_object(false)
+#1 /home/amapolaserp/public_html/pos/backend/liste.php(670): get_arqueos(NULL, NULL)
+#2 {main}
+  thrown in /home/amapolaserp/public_html/core/db/mysqli.class.php on line 310
+[02-Jul-2020 08:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/amapolaserp/public_html/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/amapolaserp/public_html/pos/frontend/include/funciones.php(257): DoliDBMysqli->fetch_object(false)
+#1 /home/amapolaserp/public_html/pos/backend/liste.php(670): get_arqueos(NULL, NULL)
+#2 {main}
+  thrown in /home/amapolaserp/public_html/core/db/mysqli.class.php on line 310
+[02-Jul-2020 08:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/amapolaserp/public_html/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/amapolaserp/public_html/pos/frontend/include/funciones.php(257): DoliDBMysqli->fetch_object(false)
+#1 /home/amapolaserp/public_html/pos/backend/liste.php(670): get_arqueos(NULL, NULL)
+#2 {main}
+  thrown in /home/amapolaserp/public_html/core/db/mysqli.class.php on line 310
+[02-Jul-2020 08:18:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 695
+[02-Jul-2020 08:18:04 UTC] PHP Stack trace:
+[02-Jul-2020 08:18:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:18:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 671
+[02-Jul-2020 08:18:49 UTC] PHP Stack trace:
+[02-Jul-2020 08:18:49 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:18:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 695
+[02-Jul-2020 08:18:49 UTC] PHP Stack trace:
+[02-Jul-2020 08:18:49 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:19:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 671
+[02-Jul-2020 08:19:04 UTC] PHP Stack trace:
+[02-Jul-2020 08:19:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:19:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 695
+[02-Jul-2020 08:19:04 UTC] PHP Stack trace:
+[02-Jul-2020 08:19:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:19:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 671
+[02-Jul-2020 08:19:24 UTC] PHP Stack trace:
+[02-Jul-2020 08:19:24 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:19:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 695
+[02-Jul-2020 08:19:24 UTC] PHP Stack trace:
+[02-Jul-2020 08:19:24 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[02-Jul-2020 08:19:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amapolaserp/public_html/pos/backend/liste.php on line 695
+[02-Jul-2020 08:19:48 UTC] PHP Stack trace:
+[02-Jul-2020 08:19:48 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/liste.php:0
+[14-Oct-2020 00:37:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/pruebaserp/public_html/pruebas/pos/backend/liste.php(191): DoliDBMysqli->fetch_object(false)
+#1 {main}
+  thrown in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 310

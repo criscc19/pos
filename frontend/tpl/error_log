@@ -1,0 +1,22 @@
+[24-Sep-2020 15:50:03 UTC] PHP Warning:  require(../main.inc.php): failed to open stream: No such file or directory in /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php on line 2
+[24-Sep-2020 15:50:03 UTC] PHP Stack trace:
+[24-Sep-2020 15:50:03 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php:0
+[24-Sep-2020 15:50:03 UTC] PHP Fatal error:  require(): Failed opening required '../main.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php on line 2
+[24-Sep-2020 15:50:03 UTC] PHP Stack trace:
+[24-Sep-2020 15:50:03 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php:0
+[24-Sep-2020 15:50:35 UTC] PHP Warning:  require(../main.inc.php): failed to open stream: No such file or directory in /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php on line 2
+[24-Sep-2020 15:50:35 UTC] PHP Stack trace:
+[24-Sep-2020 15:50:35 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php:0
+[24-Sep-2020 15:50:35 UTC] PHP Fatal error:  require(): Failed opening required '../main.inc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php on line 2
+[24-Sep-2020 15:50:35 UTC] PHP Stack trace:
+[24-Sep-2020 15:50:35 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php:0
+[26-Sep-2020 16:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php(137): DoliDBMysqli->fetch_object(false)
+#1 {main}
+  thrown in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 310
+[26-Sep-2020 16:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php:310
+Stack trace:
+#0 /home/pruebaserp/public_html/pruebas/pos/frontend/tpl/comanda_ticket.php(137): DoliDBMysqli->fetch_object(false)
+#1 {main}
+  thrown in /home/pruebaserp/public_html/pruebas/core/db/mysqli.class.php on line 310

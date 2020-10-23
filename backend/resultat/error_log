@@ -1,0 +1,192 @@
+[19-Feb-2020 10:43:35 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:44:57 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:45:12 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:49:31 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:53:07 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:54:05 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 136
+[19-Feb-2020 10:57:56 America/Costa_Rica] PHP Warning:  Unterminated comment starting line 115 in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 115
+[19-Feb-2020 10:57:56 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 126
+[19-Feb-2020 11:47:39 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 11:47:39 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 57
+[19-Feb-2020 11:48:10 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 11:48:10 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 57
+[19-Feb-2020 11:50:23 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 11:50:23 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 57
+[19-Feb-2020 12:01:20 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 59
+[19-Feb-2020 12:01:20 America/Costa_Rica] PHP Warning:  date() expects parameter 2 to be long, string given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 61
+[19-Feb-2020 12:25:04 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 153
+[19-Feb-2020 12:26:22 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 153
+[19-Feb-2020 12:26:27 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 153
+[19-Feb-2020 13:26:15 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:26:15 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:26:15 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:26:15 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:27:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:27:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:27:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:27:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:33:31 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:33:31 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 102
+[19-Feb-2020 13:42:54 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 62
+[19-Feb-2020 13:42:54 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 62
+[19-Feb-2020 13:42:54 America/Costa_Rica] PHP Fatal error:  Class 'FormOther' not found in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 74
+[19-Feb-2020 13:45:52 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 103
+[19-Feb-2020 13:45:52 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 103
+[19-Feb-2020 13:48:12 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 103
+[19-Feb-2020 13:48:12 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 103
+[19-Feb-2020 13:52:36 America/Costa_Rica] PHP Fatal error:  Call to a member function select_date() on null in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 58
+[19-Feb-2020 13:53:39 America/Costa_Rica] PHP Fatal error:  Call to a member function select_date() on null in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 45
+[19-Feb-2020 13:54:11 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 51
+[19-Feb-2020 13:54:11 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 51
+[19-Feb-2020 13:54:11 America/Costa_Rica] PHP Fatal error:  Class 'FormOther' not found in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 63
+[19-Feb-2020 13:54:33 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 51
+[19-Feb-2020 13:54:33 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 51
+[19-Feb-2020 13:57:51 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ')' in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 80
+[19-Feb-2020 13:58:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 13:58:29 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:01:39 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:01:39 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:01:53 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:01:53 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:02:13 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:02:13 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:09:31 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:09:31 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:11:46 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:11:46 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:13:50 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:13:50 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:14:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:14:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:14:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:14:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:15:42 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:15:42 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:16:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:16:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 67
+[19-Feb-2020 14:20:33 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 52
+[19-Feb-2020 14:21:07 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 14:21:09 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 14:21:09 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 55
+[19-Feb-2020 14:21:21 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 61
+[19-Feb-2020 14:21:21 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 61
+[19-Feb-2020 14:22:19 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:22:19 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:23:50 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:23:50 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:24:09 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:24:09 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:29:49 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '{' in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 100
+[19-Feb-2020 14:30:32 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '{' in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 100
+[19-Feb-2020 14:30:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:30:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:30:58 America/Costa_Rica] PHP Warning:  implode(): Argument must be an array in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:32:09 America/Costa_Rica] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:32:31 America/Costa_Rica] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:41:32 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:41:32 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:41:32 America/Costa_Rica] PHP Warning:  implode(): Invalid arguments passed in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:42:06 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:42:06 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:42:06 America/Costa_Rica] PHP Warning:  implode(): Invalid arguments passed in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:42:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:42:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:42:49 America/Costa_Rica] PHP Warning:  implode(): Invalid arguments passed in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:43:32 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:43:32 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 60
+[19-Feb-2020 14:43:32 America/Costa_Rica] PHP Warning:  implode(): Invalid arguments passed in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 101
+[19-Feb-2020 14:48:03 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '}' in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 19
+[19-Feb-2020 14:48:25 America/Costa_Rica] PHP Fatal error:  Call to undefined function isse() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 19
+[19-Feb-2020 14:48:45 America/Costa_Rica] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket1.php on line 19
+[19-Feb-2020 15:21:18 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:21:18 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:21:18 America/Costa_Rica] PHP Warning:  implode(): Invalid arguments passed in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 103
+[19-Feb-2020 15:23:21 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:21 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:23 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:23 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:23:58 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:41 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:24:41 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:25:11 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:25:11 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:25:51 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:25:51 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:10 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:10 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:41 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:41 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:56 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:29:56 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:31:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:31:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:33:37 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:33:37 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:33:48 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:33:48 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:40:54 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:40:54 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:48:14 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:48:14 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:48:25 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 15:48:25 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:07:56 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:07:56 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:08:17 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:08:17 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:09:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:09:49 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:09:49 America/Costa_Rica] PHP Fatal error:  Call to undefined function strotime() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 127
+[19-Feb-2020 16:10:09 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ',' in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 127
+[19-Feb-2020 16:10:38 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:10:38 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:10:38 America/Costa_Rica] PHP Fatal error:  Call to undefined function strotime() in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 127
+[19-Feb-2020 16:11:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:11:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:11:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[19-Feb-2020 16:11:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[20-Feb-2020 13:34:46 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[20-Feb-2020 13:34:46 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[21-Feb-2020 14:51:57 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[21-Feb-2020 14:51:57 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[22-Feb-2020 07:51:17 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[22-Feb-2020 07:51:17 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[22-Feb-2020 09:11:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[22-Feb-2020 09:11:34 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[24-Feb-2020 14:41:10 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[24-Feb-2020 14:41:10 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/pos/backend/resultat/ticket.php on line 61
+[02-Apr-2020 16:14:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[02-Apr-2020 16:14:26 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[02-Apr-2020 16:14:39 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[02-Apr-2020 16:14:39 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[04-Apr-2020 10:34:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[04-Apr-2020 10:34:20 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[07-May-2020 17:44:09 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[07-May-2020 17:44:09 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[26-May-2020 18:01:48 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[26-May-2020 18:01:48 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[26-May-2020 18:35:02 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[26-May-2020 18:35:02 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[02-Jun-2020 10:46:12 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[02-Jun-2020 10:46:12 America/Costa_Rica] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[31-Jul-2020 21:05:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[31-Jul-2020 21:05:04 UTC] PHP Stack trace:
+[31-Jul-2020 21:05:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:0
+[31-Jul-2020 21:05:04 UTC] PHP   2. in_array() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:61
+[31-Jul-2020 21:05:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[31-Jul-2020 21:05:04 UTC] PHP Stack trace:
+[31-Jul-2020 21:05:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:0
+[31-Jul-2020 21:05:04 UTC] PHP   2. in_array() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:61
+[31-Jul-2020 21:05:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/amapolaserp/public_html/pos/backend/resultat/ticket.php on line 61
+[31-Jul-2020 21:05:04 UTC] PHP Stack trace:
+[31-Jul-2020 21:05:04 UTC] PHP   1. {main}() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:0
+[31-Jul-2020 21:05:04 UTC] PHP   2. in_array() /home/amapolaserp/public_html/pos/backend/resultat/ticket.php:61

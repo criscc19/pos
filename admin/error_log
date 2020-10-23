@@ -1,0 +1,14 @@
+[06-Sep-2020 20:17:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/pruebaserp/public_html/pruebas/pos/admin/qr_gen.php on line 7
+[06-Sep-2020 20:34:52 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/pruebaserp/public_html/pruebas/pos/admin/phpqrcode/qrconst.php on line 50
+[06-Sep-2020 20:34:52 UTC] PHP Stack trace:
+[06-Sep-2020 20:34:52 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/admin/restaurant.php:0
+[06-Sep-2020 20:34:52 UTC] PHP   2. qr_generator() /home/pruebaserp/public_html/pruebas/pos/admin/restaurant.php:166
+[06-Sep-2020 20:34:52 UTC] PHP   3. include() /home/pruebaserp/public_html/pruebas/pos/admin/qr_gen.php:5
+[06-Sep-2020 20:34:52 UTC] PHP   4. include() /home/pruebaserp/public_html/pruebas/pos/admin/phpqrcode/qrlib.php:32
+[06-Sep-2020 20:35:51 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/pruebaserp/public_html/pruebas/pos/admin/phpqrcode/qrconst.php on line 50
+[06-Sep-2020 20:35:51 UTC] PHP Stack trace:
+[06-Sep-2020 20:35:51 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/pos/admin/restaurant.php:0
+[06-Sep-2020 20:35:51 UTC] PHP   2. qr_generator() /home/pruebaserp/public_html/pruebas/pos/admin/restaurant.php:166
+[06-Sep-2020 20:35:51 UTC] PHP   3. include() /home/pruebaserp/public_html/pruebas/pos/admin/qr_gen.php:5
+[06-Sep-2020 20:35:51 UTC] PHP   4. include() /home/pruebaserp/public_html/pruebas/pos/admin/phpqrcode/qrlib.php:32
+[08-Sep-2020 09:39:09 UTC] PHP Parse error:  syntax error, unexpected ''">'' (T_CONSTANT_ENCAPSED_STRING) in /home/pruebaserp/public_html/pruebas/pos/admin/pos.php on line 715
