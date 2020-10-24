@@ -68,7 +68,7 @@ if ($page == -1) { $page = 0; }
 $offset = $conf->liste_limit * $page;
 $pageprev = $page - 1;
 $pagenext = $page + 1;
-
+var_dump($user);exit;
 $month    =GETPOST('month','int');
 $year     =GETPOST('year','int');
 
