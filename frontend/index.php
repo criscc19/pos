@@ -90,7 +90,7 @@ $logo = DOL_MAIN_URL_ROOT.'/viewimage.php?modulepart=mycompany&file=logos/thumbs
      $t_id = $obj->rowid;  
      }
       $terminals=POS::select_Terminals(); 
-
+p;l09k78i6j7uh5
     ?>  
 
         <div class="input-group mb-3">      
